@@ -1,0 +1,8 @@
+### Publisher
+POST http://localhost:3000/publisher/eventExample
+Content-Type: application/json
+
+{
+  "body": "123321",
+  "status": "invalid"
+}
